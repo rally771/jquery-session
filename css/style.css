@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 *{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 12px;
 }
 .selected{
     color:red;
+=======
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+>>>>>>> 7861998594363b121c4b19a9e673be6f0f6b2141
 }
